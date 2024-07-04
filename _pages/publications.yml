@@ -1,10 +1,3 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
 main:
 
   - title: "DeepGAMI: deep biologically guided auxiliary learning for multimodal integration and imputation to improve genotype–phenotype prediction"
@@ -36,6 +29,12 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/ 
     # notes: Oral Presentation
     image: https://github.com/sayali7/sayali7_temp.github.io/assets/17776179/ae0bfed8-1f7a-49c6-8abc-86b59d811292
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
