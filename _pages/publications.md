@@ -14,7 +14,7 @@ Pramod Bharadwaj Chandrashekar, **Sayali Alatkar**, Jiebiao Wang, Gabriel E. Hof
 
  4. Single-cell network biology characterizes cell type gene regulation for drug repurposing and phenotype prediction in Alzheimer’s disease [pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010287)
 Chirag Gupta,Jielin Xu,Ting Jin,Saniya Khullar,Xiaoyu Liu,**Sayali Alatkar**,Feixiong Cheng,Daifeng Wang. *PLoS Computational Biology, 2022*
-![alt text](https://github.com/sayali7/sayali7.github.io/assets/17776179/ae0bfed8-1f7a-49c6-8abc-86b59d811292)
+![alt text](https://github.com/sayali7/sayali7_temp.github.io/assets/17776179/ae0bfed8-1f7a-49c6-8abc-86b59d811292)
 
 <!-- 
 {% if site.author.googlescholar %}
