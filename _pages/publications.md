@@ -29,7 +29,7 @@ Pramod Bharadwaj Chandrashekar, **Sayali Alatkar**, Jiebiao Wang, Gabriel E. Hof
 Sayali Anil Alatkar** & Daifeng Wang <i>Genome Medicine 2023</i><br>
    </div> 
    <div class="column" style="width:45%; float:right;">
-      <img src="[https://user-images.githubusercontent.com/57010174/169340516-1d3c46bb-9a4a-4d6a-a710-eeb168e8bb22.png](https://github.com/sayali7/sayali7_temp.github.io/assets/17776179/312bf491-3b2e-4beb-a882-24756579cba7)" style="height:5cm;"><br>
+      <img src="https://github.com/sayali7/sayali7_temp.github.io/assets/17776179/312bf491-3b2e-4beb-a882-24756579cba7" style="height:5cm;"><br>
    </div>
 </div>
 <be>
