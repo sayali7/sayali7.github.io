@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<div style="display:inline-block; height:3.8cm;">
+<div style="display:inline-block; float:left; height:3.8cm;">
    1. **DeepGAMI: deep biologically guided auxiliary learning for multimodal integration and imputation to improve genotype–phenotype prediction** [pdf](https://rdcu.be/ducUF) [code](https://github.com/daifengwanglab/DeepGAMI)\\
 Pramod Bharadwaj Chandrashekar, **Sayali Alatkar**, Jiebiao Wang, Gabriel E. Hoffman, Chenfeng He, Ting Jin, Saniya Khullar, Jaroslav Bendl, John F. Fullard, Panos Roussos & Daifeng Wang. *Genome Medicine 2023*
 </div>
