@@ -7,13 +7,13 @@ author_profile: true
 <div class="row">
    <div class="column" style="width:55%; float:left;">
        1. <b>DeepGAMI: deep biologically guided auxiliary learning for multimodal integration and imputation to improve genotype–phenotype prediction</b> <a href="https://rdcu.be/ducUF">pdf</a> <a href="https://github.com/daifengwanglab/DeepGAMI">code</a><br>
-Pramod Bharadwaj Chandrashekar, <b>Sayali Alatkar</b>, Jiebiao Wang, Gabriel E. Hoffman, Chenfeng He, Ting Jin, Saniya Khullar, Jaroslav Bendl, John F. Fullard, Panos Roussos & Daifeng Wang. <i>Genome Medicine 2023</i><br>
+Pramod Bharadwaj Chandrashekar, <b>Sayali Alatkar</b>, Jiebiao Wang, Gabriel E. Hoffman, Chenfeng He, Ting Jin, Saniya Khullar, Jaroslav Bendl, John F. Fullard, Panos Roussos & Daifeng Wang. <i>Genome Medicine 2023</i>
    </div> 
    <div class="column" style="width:45%; float:right;">
-      <img src="https://user-images.githubusercontent.com/57010174/169340516-1d3c46bb-9a4a-4d6a-a710-eeb168e8bb22.png" style="height:3.8cm;">
+      <img src="https://user-images.githubusercontent.com/57010174/169340516-1d3c46bb-9a4a-4d6a-a710-eeb168e8bb22.png" style="height:5cm;">
    </div>
+   <br>
 </div>
-<br>
 
 <!--
    1. **DeepGAMI: deep biologically guided auxiliary learning for multimodal integration and imputation to improve genotype–phenotype prediction** [pdf](https://rdcu.be/ducUF) [code](https://github.com/daifengwanglab/DeepGAMI)\\
@@ -23,8 +23,18 @@ Pramod Bharadwaj Chandrashekar, **Sayali Alatkar**, Jiebiao Wang, Gabriel E. Hof
   <img src="https://user-images.githubusercontent.com/57010174/169340516-1d3c46bb-9a4a-4d6a-a710-eeb168e8bb22.png" style="height:3.8cm;">
 </div>
 -->
+<div class="row">
+   <div class="column" style="width:55%; float:left;">
+       1. <b>CMOT: Cross-Modality Optimal Transport for multimodal inference</b> <a href="https://rdcu.be/ducUF">pdf</a> <a href="https://github.com/daifengwanglab/DeepGAMI">code</a><br>
+Sayali Anil Alatkar** & Daifeng Wang <i>Genome Medicine 2023</i><br>
+   </div> 
+   <div class="column" style="width:45%; float:right;">
+      <img src="[https://user-images.githubusercontent.com/57010174/169340516-1d3c46bb-9a4a-4d6a-a710-eeb168e8bb22.png](https://github.com/sayali7/sayali7_temp.github.io/assets/17776179/312bf491-3b2e-4beb-a882-24756579cba7)" style="height:5cm;"><br>
+   </div>
+</div>
+<be>
 
-
+<!--
  3. **CMOT: Cross-Modality Optimal Transport for multimodal inference** [pdf](https://rdcu.be/ducUy) [code](https://github.com/daifengwanglab/CMOT)\\
 **Sayali Anil Alatkar** & Daifeng Wang. *Genome Biology 2023*
 <p align="center">
@@ -34,6 +44,7 @@ Pramod Bharadwaj Chandrashekar, **Sayali Alatkar**, Jiebiao Wang, Gabriel E. Hof
 Chirag Gupta,Jielin Xu,Ting Jin,Saniya Khullar,Xiaoyu Liu,**Sayali Alatkar**,Feixiong Cheng,Daifeng Wang. *PLoS Computational Biology, 2022*
 <p align="center">
 <img src="https://github.com/sayali7/sayali7_temp.github.io/assets/17776179/ae0bfed8-1f7a-49c6-8abc-86b59d811292" width="300px" height="300px"></p>
+-->
 
 <!-- 
 {% if site.author.googlescholar %}
