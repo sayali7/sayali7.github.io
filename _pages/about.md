@@ -13,7 +13,27 @@ Previously, I completed my undergrad at [Pune University](http://www.unipune.ac.
 
 ## News
 
-- **[November. 2023]** I gave a talk on our paper CMOT at RSGDREAM 2023.
-- **[October. 2023]** Our paper on deep auxiliary learning for multi-modal integration and imputation was accepted at Genome Medicine.
+- **[November. 2023]** I gave a talk on our paper CMOT at RSGDREAM 2023. [video](https://www.youtube.com/watch?v=nDTm6LGhP6I)
+- **[October. 2023]** Our paper on deep auxiliary learning for multi-modal integration and imputation was accepted at Genome Medicine. [press](https://www.waisman.wisc.edu/2023/12/04/utilizing-ai-to-better-understand-the-genotype-phenotype-connection/)
 - **[July. 2023]** Our paper about cross-modality imputation using optimal transport was accepted at Genome Biology.
 - **[May. 2022]** I presented our poster on cross-modality imputation at RECOMB 2022.
+
+## Publications
+
+1. **DeepGAMI: deep biologically guided auxiliary learning for multimodal integration and imputation to improve genotype–phenotype prediction** &nbsp; [pdf](https://rdcu.be/ducUF) [code](https://github.com/daifengwanglab/DeepGAMI)\\
+Pramod Bharadwaj Chandrashekar, **Sayali Alatkar**, Jiebiao Wang, Gabriel E. Hoffman, Chenfeng He, Ting Jin, Saniya Khullar, Jaroslav Bendl, John F. Fullard, Panos Roussos & Daifeng Wang.\\
+*Genome Medicine 2023*
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57010174/169340516-1d3c46bb-9a4a-4d6a-a710-eeb168e8bb22.png" width="300px" height="300px"></p>
+
+ 3. **CMOT: Cross-Modality Optimal Transport for multimodal inference** &nbsp; [pdf](https://rdcu.be/ducUy) [code](https://github.com/daifengwanglab/CMOT)\\
+**Sayali Anil Alatkar** & Daifeng Wang.\\
+*Genome Biology 2023*
+<p align="center">
+<img src="https://github.com/sayali7/sayali7_temp.github.io/assets/17776179/312bf491-3b2e-4beb-a882-24756579cba7" width="300px" height="300px"></p>
+
+ 5. **Single-cell network biology characterizes cell type gene regulation for drug repurposing and phenotype prediction in Alzheimer’s disease** &nbsp; [pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010287)\\
+Chirag Gupta,Jielin Xu,Ting Jin,Saniya Khullar,Xiaoyu Liu,**Sayali Alatkar**,Feixiong Cheng,Daifeng Wang.\\
+*PLoS Computational Biology, 2022*
+<p align="center">
+<img src="https://github.com/sayali7/sayali7_temp.github.io/assets/17776179/ae0bfed8-1f7a-49c6-8abc-86b59d811292" width="300px" height="300px"></p>
