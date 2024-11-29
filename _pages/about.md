@@ -24,7 +24,7 @@ Previously, I completed my undergrad at [Pune University](http://www.unipune.ac.
    *Submitted*
 
 2. **Personalized Single-cell Transcriptomics Reveals Molecular Diversity in Alzheimer’s Disease** &nbsp; [pdf](https://www.medrxiv.org/content/10.1101/2024.11.01.24316589v1) \\
-   Pramod Bharadwaj Chandrashekar*, **Sayali Anil Alatkar***, Noah Cohen Kalafut*, Ting Jin*, Chirag Gupta, Ryan Burzak, Xiang Huang, Shuang Liu, Athan Z. Li, PsychAD Consortium, Kiran Girdhar,  Georgios Voloudakis,  Gabriel E. Hoffman, Jaroslav Bendl, John F. Fullard, Donghoon Lee, Panos Roussos, Daifeng Wang. \\
+   Pramod Bharadwaj Chandrashekar*, <b>Sayali Anil Alatkar*</b>, Noah Cohen Kalafut*, Ting Jin*, Chirag Gupta, Ryan Burzak, Xiang Huang, Shuang Liu, Athan Z. Li, PsychAD Consortium, Kiran Girdhar,  Georgios Voloudakis,  Gabriel E. Hoffman, Jaroslav Bendl, John F. Fullard, Donghoon Lee, Panos Roussos, Daifeng Wang. \\
    *Submitted*
    
 3. **DeepGAMI: deep biologically guided auxiliary learning for multimodal integration and imputation to improve genotype–phenotype prediction** &nbsp; [pdf](https://rdcu.be/ducUF) [code](https://github.com/daifengwanglab/DeepGAMI)\\
