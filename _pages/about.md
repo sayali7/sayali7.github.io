@@ -19,14 +19,21 @@ Previously, I completed my undergrad at [Pune University](http://www.unipune.ac.
 - **[May. 2022]** I presented our poster on cross-modality imputation at RECOMB 2022.
 
 ## Publications
+1. **NeuroTD: A Time-Frequency Based Multimodal Learning Approach to Analyze Time Delays in Neural Activities** &nbsp; [pdf](https://www.biorxiv.org/content/10.1101/2024.10.28.620662v1) \\
+   Xiang Huang,  Noah Cohen Kalafut, **Sayali Alatkar**, Athan Z. Li, Qiping Dong, Qiang Chang,  Daifeng Wang. \\
+   *Submitted*
 
-1. **DeepGAMI: deep biologically guided auxiliary learning for multimodal integration and imputation to improve genotype–phenotype prediction** &nbsp; [pdf](https://rdcu.be/ducUF) [code](https://github.com/daifengwanglab/DeepGAMI)\\
+2. **Personalized Single-cell Transcriptomics Reveals Molecular Diversity in Alzheimer’s Disease** &nbsp; [pdf](https://www.medrxiv.org/content/10.1101/2024.11.01.24316589v1) \\
+   Pramod Bharadwaj Chandrashekar*, **Sayali Anil Alatkar***, Noah Cohen Kalafut*, Ting Jin*, Chirag Gupta, Ryan Burzak, Xiang Huang, Shuang Liu, Athan Z. Li, PsychAD Consortium, Kiran Girdhar,  Georgios Voloudakis,  Gabriel E. Hoffman, Jaroslav Bendl, John F. Fullard, Donghoon Lee, Panos Roussos, Daifeng Wang. \\
+   *Submitted*
+   
+3. **DeepGAMI: deep biologically guided auxiliary learning for multimodal integration and imputation to improve genotype–phenotype prediction** &nbsp; [pdf](https://rdcu.be/ducUF) [code](https://github.com/daifengwanglab/DeepGAMI)\\
 Pramod Bharadwaj Chandrashekar, **Sayali Alatkar**, Jiebiao Wang, Gabriel E. Hoffman, Chenfeng He, Ting Jin, Saniya Khullar, Jaroslav Bendl, John F. Fullard, Panos Roussos & Daifeng Wang.\\
 *Genome Medicine 2023*
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57010174/169340516-1d3c46bb-9a4a-4d6a-a710-eeb168e8bb22.png" width="300px" height="300px"></p>
 
- 3. **CMOT: Cross-Modality Optimal Transport for multimodal inference** &nbsp; [pdf](https://rdcu.be/ducUy) [code](https://github.com/daifengwanglab/CMOT)\\
+ 4. **CMOT: Cross-Modality Optimal Transport for multimodal inference** &nbsp; [pdf](https://rdcu.be/ducUy) [code](https://github.com/daifengwanglab/CMOT)\\
 **Sayali Anil Alatkar** & Daifeng Wang.\\
 *Genome Biology 2023*
 <p align="center">
