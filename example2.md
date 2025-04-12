@@ -12,3 +12,5 @@ See ./_data/example.yml for how yml files looks like, ./_includes/person.html fo
 {% for person in people %}
 {% include person.html person=person %}
 {% endfor %}
+
+
