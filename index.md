@@ -1,6 +1,6 @@
 ---
 layout: default
-description: I'm Elena (Lena) Voita and I work on Natural Language Processing. More details inside!
+description: I'm Sayali!
 ---
 
 <!-- (comment) the image below can be found in img folder of this very project-->
@@ -12,9 +12,9 @@ description: I'm Elena (Lena) Voita and I work on Natural Language Processing. M
 <!-- <a href= onMouseOver="document.readmore_1.src='/img/people/foxie.jpeg';" onMouseOut="document.readmore_1.src='/img/people/orange_lena-min.jpg';">
 <img src="/img/people/orange_lena-min.jpg" name="readmore_1" width=204px height=240px></a> -->
 
-Hi! I'm a computer science Ph.D. student at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/). I am advised by [Daifeng Wang](https://daifengwanglab.org/). My research interests broadly span interpretable machine learning for genomics, graph neural networks, attention models, and optimal transport. In particular, I work on building machine learning methods to understand biological mechanisms underlying diseases like Alzheimer's, and disease predictions from single-cell genomics.
+Hi! I’m a Ph.D. student in Computer Sciences at the [University of Wisconsin–Madison](https://www.cs.wisc.edu/), advised by [Daifeng Wang](https://daifengwanglab.org/). My research focuses on interpretable machine learning for single-cell genomics, with interests in graph neural networks, attention mechanisms, and optimal transport. I have developed computational methods to study the biological mechanisms of diseases such as Alzheimer’s and to enable disease prediction using single-cell genomics.
 
-Previously, I completed my undergrad at [Pune University](http://www.unipune.ac.in/) in computer engineering. I later completed my master's in computer science at [Stony Brook University](https://www.stonybrook.edu/) where I was fortunate to be advised by [Samir Das](https://www3.cs.stonybrook.edu/~samir/).
+I completed my undergraduate studies in Computer Engineering at [Pune University](http://www.unipune.ac.in/), followed by a master’s in Computer Science at [Stony Brook University](https://www.stonybrook.edu/), where I was advised by [Samir Das](https://www3.cs.stonybrook.edu/~samir/).
 
 <!-- 
 I am Elena (Lena) Voita, a __Research Scientist__ at [__FAIR__](https://ai.facebook.com) working on Analysis and Interpetability for NLP. 
@@ -31,7 +31,13 @@ while enjoying writing [blog posts](https://lena-voita.github.io/posts.html) and
 <!--<span style="color:red">__Blog-course:__</span>    NLP Course <span style="color:#92bf32">For You</span> - look [here](https://lena-voita.github.io/nlp_course.html).-->
 
 ## <span style="color:darkblue">News </span>
+- **[November. 2023]** I gave a talk on our paper CMOT at RSGDREAM 2023. [video](https://www.youtube.com/watch?v=nDTm6LGhP6I)
+- **[October. 2023]** Our paper on deep auxiliary learning for multi-modal integration and imputation was accepted at Genome Medicine. [press](https://www.waisman.wisc.edu/2023/12/04/utilizing-ai-to-better-understand-the-genotype-phenotype-connection/)
+- **[July. 2023]** Our paper about cross-modality imputation using optimal transport was accepted at Genome Biology.
+- **[May. 2022]** I presented our poster on cross-modality imputation at RECOMB 2022.
 
+
+<!--
 __2023__
 
 * <span style="color:#7fa827">Senior Area Chair:</span>  [EACL 2024](https://2024.eacl.org).
@@ -65,7 +71,7 @@ __2020__
 __2019__
 * <span style="color:#7fa827">Papers:</span> 2 papers at ACL (one is oral), 2 papers at EMNLP, 1 at NeurIPS.
 
-
+-->
 <!--
 __2023__
 
