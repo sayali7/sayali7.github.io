@@ -24,7 +24,7 @@
   title: "Personalized Single-cell Transcriptomics Reveals Molecular Diversity in Alzheimer’s Disease"
   authors: "Pramod Bharadwaj Chandrashekar*, <b>Sayali Anil Alatkar*</b>, Noah Cohen Kalafut*, Ting Jin*, Chirag Gupta, Ryan Burzak, Xiang Huang, Shuang Liu, Athan Z. Li, PsychAD Consortium, Kiran Girdhar, Georgios Voloudakis, Gabriel E. Hoffman, Jaroslav Bendl, John F. Fullard, Donghoon Lee, Panos Roussos#, Daifeng Wang#"
   doc-url:
-  conf_name: "<i>in revision (Nature Medicine)<i>"
+  conf_name: "<i>in revision (Nature Medicine)</i>"
   conf_year: 2025
   url: "https://www.medrxiv.org/content/10.1101/2024.11.01.24316589v1"
   code: "https://github.com/daifengwanglab/iBrainMap"
