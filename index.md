@@ -6,23 +6,27 @@ description: I'm Elena (Lena) Voita and I work on Natural Language Processing. M
 <!-- (comment) the image below can be found in img folder of this very project-->
 <!--![i_am_a_fox](./img/people/lena_large-min.png){: style="float: right; margin: 0px 20px; width: 180px;" name="fox"}-->
 <!--![i_am_a_fox](./img/people/orange_lena-min.jpg){: style="float: right; margin: 0px 20px; width: 180px;" name="fox"}-->
-![i_am_a_fox](./img/people/lena_blue.jpeg){: style="float: right; margin: 0px 20px; width: 250px; border-radius: 50%" name="fox"}
+![i_am_a_fox](./img/people/Sayali-profile.jpg){: style="float: right; margin: 0px 20px; width: 250px; border-radius: 50%" name="fox"}
 
 
 <!-- <a href= onMouseOver="document.readmore_1.src='/img/people/foxie.jpeg';" onMouseOut="document.readmore_1.src='/img/people/orange_lena-min.jpg';">
 <img src="/img/people/orange_lena-min.jpg" name="readmore_1" width=204px height=240px></a> -->
 
+Hi! I'm a computer science Ph.D. student at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/). I am advised by [Daifeng Wang](https://daifengwanglab.org/). My research interests broadly span interpretable machine learning for genomics, graph neural networks, attention models, and optimal transport. In particular, I work on building machine learning methods to understand biological mechanisms underlying diseases like Alzheimer's, and disease predictions from single-cell genomics.
 
+Previously, I completed my undergrad at [Pune University](http://www.unipune.ac.in/) in computer engineering. I later completed my master's in computer science at [Stony Brook University](https://www.stonybrook.edu/) where I was fortunate to be advised by [Samir Das](https://www3.cs.stonybrook.edu/~samir/).
+
+<!-- 
 I am Elena (Lena) Voita, a __Research Scientist__ at [__FAIR__](https://ai.facebook.com) working on Analysis and Interpetability for NLP. 
 
-Also, [__NLP Course__ <span style="color:#92bf32">__For You__</span>](https://lena-voita.github.io/nlp_course.html) creator and current [SIGREP](https://www.sigrep.org) president.
+Also, [__NLP Course__ <span style="color:#92bf32">__For You__</span>](https://lena-voita.github.io/nlp_course.html) creator and current [SIGREP](https://www.sigrep.org) president.-->
 <!--* a __Research Scientist__ at [__FAIR__](https://ai.facebook.com) working on NLP,* current [SIGREP](https://www.sigrep.org) president,* NLP Course <span style="color:#92bf32">For You</span> creator - look [here](https://lena-voita.github.io/nlp_course.html).-->
 
 
-
+<!--
 Before that, I was Ph.D. student at the University of Edinburgh supervised by [Ivan Titov]({{site:ivan_page}}) and [Rico Sennrich]({{site.rico_page}}),  was awarded [Facebook PhD Fellowship](https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/),
 worked as a Research Scientist at [Yandex Research]({{site.yandex_research_main}}) side by side with the [Yandex Translate](https://translate.yandex.com) team, 
-while enjoying writing [blog posts](https://lena-voita.github.io/posts.html) and [teaching](https://lena-voita.github.io/nlp_course.html)<a onMouseOver="document.fox.src='/img/people/foxie.jpeg';" onMouseOut="document.fox.src='/img/people/orange_lena-min.jpg';">.</a> 
+while enjoying writing [blog posts](https://lena-voita.github.io/posts.html) and [teaching](https://lena-voita.github.io/nlp_course.html)<a onMouseOver="document.fox.src='/img/people/foxie.jpeg';" onMouseOut="document.fox.src='/img/people/orange_lena-min.jpg';">.</a> -->
 
 <!--<span style="color:red">__Blog-course:__</span>    NLP Course <span style="color:#92bf32">For You</span> - look [here](https://lena-voita.github.io/nlp_course.html).-->
 
