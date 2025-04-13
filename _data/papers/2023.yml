@@ -7,7 +7,7 @@
   title: "CMOT: Cross-Modality Optimal Transport for multimodal inference."
   authors: "<b>Sayali Anil Alatkar</b> & Daifeng Wang"
   doc-url:
-  conf_name: "<i>Genome Biology</i>""
+  conf_name: "<i>Genome Biology</i>"
   conf_year: 2023
   url: "https://rdcu.be/ducUy"
   code: "https://github.com/daifengwanglab/CMOT"
