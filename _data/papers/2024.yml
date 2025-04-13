@@ -7,7 +7,7 @@
   title: "NeuroTD: A Time-Frequency Based Multimodal Learning Approach to Analyze Time Delays in Neural Activities."
   authors: "Xiang Huang, Noah Cohen Kalafut, <b>Sayali Alatkar</b>, Athan Z. Li, Qiping Dong, Qiang Chang, Daifeng Wang"
   doc-url:
-  conf_name: submitted
+  conf_name: (submitted)
   conf_year: 2024
   url: "https://www.biorxiv.org/content/10.1101/2024.10.28.620662v1"
   code: "https://github.com/daifengwanglab/NeuroTD/tree/main"
