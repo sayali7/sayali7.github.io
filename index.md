@@ -12,7 +12,9 @@ description: I'm Sayali!
 <!-- <a href= onMouseOver="document.readmore_1.src='/img/people/foxie.jpeg';" onMouseOut="document.readmore_1.src='/img/people/orange_lena-min.jpg';">
 <img src="/img/people/orange_lena-min.jpg" name="readmore_1" width=204px height=240px></a> -->
 
-Hi! I’m a Ph.D. student in Computer Sciences at the [University of Wisconsin–Madison](https://www.cs.wisc.edu/), advised by [Daifeng Wang](https://daifengwanglab.org/). My research focuses on interpretable machine learning for single-cell genomics, with interests in graph neural networks, attention mechanisms, and optimal transport. I have developed computational methods for multi-modal imputation and modelling time-series transcriptomics for single-cells. 
+Hi! I’m a Ph.D. student in Computer Sciences at the [University of Wisconsin–Madison](https://www.cs.wisc.edu/) and [Waisman Center](https://www.waisman.wisc.edu/), advised by [Daifeng Wang](https://daifengwanglab.org/). 
+
+My research focuses on interpretable machine learning for single-cell genomics, with interests in optimal transport, graph neural networks and attention models. I have developed computational methods for multi-modal imputation and modelling time-series transcriptomics for single-cells. 
 
 I am also part of the [PsychAD Consortium](https://psych-ad.org/) where we developed computational tools to understand the neuropsychiatric symptoms (NPS) in Alzheimer’s disease (AD) and related dementias (ADRD).
 

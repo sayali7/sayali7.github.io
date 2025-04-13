@@ -15,3 +15,20 @@
   blog:
   abstract: " "
 
+
+-
+  layout: paper
+  paper-type: postr
+  selected: y
+  year: 2022
+  img: cmot_poster.png
+  title: "CMOT: Cross-Modality Optimal Transport for multi-modal inference"
+  authors: "<b>Sayali Anil Alatkar</b> & Daifeng Wang"
+  doc-url:
+  conf_name: "RECOMB"
+  conf_year: 2022
+  url: ""
+  code:
+  blog:
+  abstract: " "
+
