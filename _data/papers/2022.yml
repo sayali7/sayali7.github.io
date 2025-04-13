@@ -16,7 +16,8 @@
   abstract: " "
 
 
-  poster: y
+  layout: paper
+  paper-type: article
   selected: y
   year: 2022
   img: cmot_poster.png
