@@ -15,9 +15,9 @@
   blog:
   abstract: " "
 
-
+-
   layout: paper
-  paper-type: article
+  paper-type: paper
   selected: y
   year: 2022
   img: cmot_poster.png
