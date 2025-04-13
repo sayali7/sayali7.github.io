@@ -33,11 +33,12 @@ while enjoying writing [blog posts](https://lena-voita.github.io/posts.html) and
 <!--<span style="color:red">__Blog-course:__</span>    NLP Course <span style="color:#92bf32">For You</span> - look [here](https://lena-voita.github.io/nlp_course.html).-->
 
 ## <span style="color:darkblue">News </span>
-- **[April 2025]** Our paper *ARTEMIS* was accepted at the Proceedings of ISMB/ECCB 2025.
-- **[November 2023]** Gave a talk on *CMOT* at RSGDREAM 2023. [Video](https://www.youtube.com/watch?v=nDTm6LGhP6I)
+- **[July 2025]** I will be presenting ARTEMIS at the ISMB/ECCB 2025 in Liverpool!
+- **[April 2025]** Our paper ARTEMIS was accepted at the Proceedings of ISMB/ECCB 2025.
+- **[November 2023]** Gave a talk on CMOT at RSGDREAM 2023 at UCLA! [Video](https://www.youtube.com/watch?v=nDTm6LGhP6I)
 - **[October 2023]** Our paper on deep auxiliary learning for multi-modal integration was accepted in *Genome Medicine*. [Press](https://www.waisman.wisc.edu/2023/12/04/utilizing-ai-to-better-understand-the-genotype-phenotype-connection/)
-- **[July 2023]** *CMOT*, our method for cross-modality imputation using optimal transport, was accepted in *Genome Biology*.
-- **[May 2022]** Presented a poster on cross-modality imputation at *RECOMB 2022*.
+- **[July 2023]** CMOT, our method for cross-modality imputation using optimal transport, was accepted in *Genome Biology*.
+- **[May 2022]** Presented a poster on cross-modality imputation at *RECOMB 2022* in San Diego!
 
 <!--
 __2023__
