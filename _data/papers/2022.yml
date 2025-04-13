@@ -3,14 +3,14 @@
   layout: paper
   paper-type: inproceedings
   selected: y
-  year: 2021
-  img: hallucinations-min.png
-  title: "Looking for a Needle in a Haystack: A Comprehensive Study of Hallucinations in Neural Machine Translation"
-  authors: "Nuno Guerreiro, <u>Elena Voita</u>,  André Martins"
+  year: 2022
+  img: "https://github.com/sayali7/sayali7_temp.github.io/assets/17776179/ae0bfed8-1f7a-49c6-8abc-86b59d811292"
+  title: "Single-cell network biology characterizes cell type gene regulation for drug repurposing and phenotype prediction in Alzheimer’s disease"
+  authors: "Chirag Gupta,Jielin Xu,Ting Jin,Saniya Khullar,Xiaoyu Liu,<b>Sayali Alatkar</b>,Feixiong Cheng,Daifeng Wang."
   doc-url:
   conf_name: EACL
   conf_year: 2023
-  url: "https://arxiv.org/pdf/2208.05309.pdf"
+  url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010287"
   code:
   blog:
   abstract: " "
