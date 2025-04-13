@@ -31,10 +31,11 @@ while enjoying writing [blog posts](https://lena-voita.github.io/posts.html) and
 <!--<span style="color:red">__Blog-course:__</span>    NLP Course <span style="color:#92bf32">For You</span> - look [here](https://lena-voita.github.io/nlp_course.html).-->
 
 ## <span style="color:darkblue">News </span>
-- **[November. 2023]** I gave a talk on our paper CMOT at RSGDREAM 2023. [video](https://www.youtube.com/watch?v=nDTm6LGhP6I)
-- **[October. 2023]** Our paper on deep auxiliary learning for multi-modal integration and imputation was accepted at Genome Medicine. [press](https://www.waisman.wisc.edu/2023/12/04/utilizing-ai-to-better-understand-the-genotype-phenotype-connection/)
-- **[July. 2023]** Our paper about cross-modality imputation using optimal transport was accepted at Genome Biology.
-- **[May. 2022]** I presented our poster on cross-modality imputation at RECOMB 2022.
+- **[April 2025]** Our paper ARTEMIS accepted at Proceedings of ISMB/ECCB 2025. 
+- **[November 2023]** I gave a talk on our paper CMOT at RSGDREAM 2023. [video](https://www.youtube.com/watch?v=nDTm6LGhP6I)
+- **[October 2023]** Our paper on deep auxiliary learning for multi-modal integration and imputation was accepted at Genome Medicine. [press](https://www.waisman.wisc.edu/2023/12/04/utilizing-ai-to-better-understand-the-genotype-phenotype-connection/)
+- **[July 2023]** Our paper about cross-modality imputation using optimal transport was accepted at Genome Biology.
+- **[May 2022]** I presented our poster on cross-modality imputation at RECOMB 2022.
 
 
 <!--
