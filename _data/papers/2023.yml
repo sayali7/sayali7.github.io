@@ -1,17 +1,33 @@
+-
+  layout: paper
+  paper-type: journal
+  selected: y
+  year: 2023
+  img: cmot.png
+  title: "CMOT: Cross-Modality Optimal Transport for multimodal inference."
+  authors: "<b>Sayali Anil Alatkar</b> & Daifeng Wang"
+  doc-url:
+  conf_name: Genome Biology 2023
+  conf_year: 2023
+  url: "https://rdcu.be/ducUy"
+  code: "https://github.com/daifengwanglab/CMOT"
+  blog:
+  abstract: " "
 
 -
   layout: paper
-  paper-type: inproceedings
+  paper-type: journal
   selected: y
-  year: 2023
-  img: neurons.png
-  title: "Neurons in Large Language Models: Dead, N-gram, Positional"
-  authors: "<u>Elena Voita</u>,  Javier Ferrando, Christoforos Nalmpantis"
+  year: 2022
+  img: deepgami.png
+  title: "DeepGAMI: deep biologically guided auxiliary learning for multimodal integration and imputation to improve genotype–phenotype prediction"
+  authors: "Pramod Bharadwaj Chandrashekar, <b>Sayali Alatkar</b>, Jiebiao Wang, Gabriel E. Hoffman, Chenfeng He, Ting Jin, Saniya Khullar, Jaroslav Bendl, John F. Fullard, Panos Roussos & Daifeng Wang."
   doc-url:
-  conf_name: 
+  conf_name: Genome Medicine, 2023
   conf_year: 2023
-  url: "https://arxiv.org/pdf/2309.04827.pdf"
-  code:
+  url: "https://rdcu.be/ducUF"
+  code: "https://github.com/daifengwanglab/DeepGAMI"
   blog:
   abstract: " "
+
 

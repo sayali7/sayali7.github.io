@@ -1,14 +1,14 @@
 
 -
   layout: paper
-  paper-type: inproceedings
+  paper-type: journal
   selected: y
   year: 2022
-  img: "https://github.com/sayali7/sayali7_temp.github.io/assets/17776179/ae0bfed8-1f7a-49c6-8abc-86b59d811292"
+  img: ad_netbio_chirag.png
   title: "Single-cell network biology characterizes cell type gene regulation for drug repurposing and phenotype prediction in Alzheimer’s disease"
-  authors: "Chirag Gupta,Jielin Xu,Ting Jin,Saniya Khullar,Xiaoyu Liu,<b>Sayali Alatkar</b>,Feixiong Cheng,Daifeng Wang."
+  authors: "Chirag Gupta, Jielin Xu, Ting Jin, Saniya Khullar, Xiaoyu Liu, <b>Sayali Alatkar</b>, Feixiong Cheng, Daifeng Wang."
   doc-url:
-  conf_name: EACL
+  conf_name: PLoS Computational Biology, 2022
   conf_year: 2023
   url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010287"
   code:
