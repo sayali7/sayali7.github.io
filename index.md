@@ -16,7 +16,7 @@ Hi! I’m a Ph.D. student in Computer Sciences at the [University of Wisconsin�
 
 My research focuses on interpretable machine learning for single-cell genomics, with interests in optimal transport, graph neural networks and attention models. I have developed computational methods for multi-modal imputation and modelling time-series transcriptomics for single-cells. 
 
-I am part of the [PsychAD Consortium](https://psych-ad.org/), focused on developing computational tools to study neuropsychiatric symptoms (NPS) in Alzheimer’s disease (AD) and related dementias (ADRD).
+I am part of the [PsychAD Consortium](https://psych-ad.org/), where I'm working on developing computational tools to study neuropsychiatric symptoms (NPS) in Alzheimer’s disease (AD) and related dementias (ADRD).
 
 I completed my undergraduate studies in Computer Engineering at [Pune University](http://www.unipune.ac.in/), followed by a master’s in Computer Science at [Stony Brook University](https://www.stonybrook.edu/), where I was advised by [Samir Das](https://www3.cs.stonybrook.edu/~samir/).
 
