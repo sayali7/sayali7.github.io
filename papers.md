@@ -5,7 +5,7 @@ description: Publications with links to papers, blogs and code.
 menu: yes
 order: 1
 ---
-
+\* denotes equal contribution
 {% assign hashes = (site.data.papers) %}
 {% capture years %}
 {% for hash in hashes %}
