@@ -37,7 +37,7 @@ while enjoying writing [blog posts](https://lena-voita.github.io/posts.html) and
 - **[September 2025]** I will start as a postdoc at Stanford at the Pritchard lab!
 - **[August 2025]** I defended my PhD dissertation!!
 - **[July 2025]** I presented ARTEMIS at the ISMB/ECCB 2025 in Liverpool, UK!
-- **[April 2025]** ARTEMIS, our paper to model time-series single-cell trajectories accepted at the Proceedings of ECCB 2025.
+- **[April 2025]** ARTEMIS, our paper to model time-series single-cell trajectories accepted at the Proceedings of ECCB 2025. [Press 1] (https://www.cs.wisc.edu/2025/05/20/sayali-alatkar-and-daifeng-wang-ismb-eccb-2025/) [Press 2] (https://www.waisman.wisc.edu/2025/07/29/meet-artemis-the-new-ai-helping-researchers-reconstruct-the-hidden-stories-of-cell-development/)
 - **[November 2023]** Gave a [recorded](https://www.youtube.com/watch?v=nDTm6LGhP6I) talk on CMOT at *RSGDREAM* 2023 at UCLA! 
 - **[October 2023]** Deepgami, our method for multi-modal integration using deep auxiliary learning was accepted in *Genome Medicine*. [Press](https://www.waisman.wisc.edu/2023/12/04/utilizing-ai-to-better-understand-the-genotype-phenotype-connection/)
 - **[July 2023]** CMOT, our method for cross-modality imputation using optimal transport, was accepted in *Genome Biology*.
