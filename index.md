@@ -11,7 +11,6 @@ description: I'm Sayali!
 
 <!-- <a href= onMouseOver="document.readmore_1.src='/img/people/foxie.jpeg';" onMouseOut="document.readmore_1.src='/img/people/orange_lena-min.jpg';">
 <img src="/img/people/orange_lena-min.jpg" name="readmore_1" width=204px height=240px></a> -->
-
 Hi! I’m a Ph.D. student in Computer Sciences at the [University of Wisconsin–Madison](https://www.cs.wisc.edu/) and the [Waisman Center](https://www.waisman.wisc.edu/), where I am advised by [Daifeng Wang](https://daifengwanglab.org/).
 
 My research focuses on interpretable machine learning for single-cell genomics, with interests in optimal transport, graph neural networks and attention models. I have developed computational methods for multi-modal imputation and modelling time-series transcriptomics for single-cells. 
@@ -35,8 +34,10 @@ while enjoying writing [blog posts](https://lena-voita.github.io/posts.html) and
 <!--<span style="color:red">__Blog-course:__</span>    NLP Course <span style="color:#92bf32">For You</span> - look [here](https://lena-voita.github.io/nlp_course.html).-->
 
 ## <span style="color:darkblue">News </span>
-- **[July 2025]** I will be presenting ARTEMIS at the ISMB/ECCB 2025 in Liverpool!
-- **[April 2025]** ARTEMIS, our paper to model time-series single-cell trajectories accepted at the Proceedings of ISMB/ECCB 2025.
+- **[September 2025]** I will start as a postdoc at Stanford at the Pritchard lab!
+- **[August 2025]** I defended my PhD dissertation!!
+- **[July 2025]** I presented ARTEMIS at the ISMB/ECCB 2025 in Liverpool, UK!
+- **[April 2025]** ARTEMIS, our paper to model time-series single-cell trajectories accepted at the Proceedings of ECCB 2025.
 - **[November 2023]** Gave a [recorded](https://www.youtube.com/watch?v=nDTm6LGhP6I) talk on CMOT at *RSGDREAM* 2023 at UCLA! 
 - **[October 2023]** Deepgami, our method for multi-modal integration using deep auxiliary learning was accepted in *Genome Medicine*. [Press](https://www.waisman.wisc.edu/2023/12/04/utilizing-ai-to-better-understand-the-genotype-phenotype-connection/)
 - **[July 2023]** CMOT, our method for cross-modality imputation using optimal transport, was accepted in *Genome Biology*.
