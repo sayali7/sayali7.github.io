@@ -5,7 +5,7 @@
   year: 2025
   img: artemis.png
   title: "ARTEMIS integrates autoencoders and schrödinger bridges to predict continuous dynamics of gene expression, cell population and perturbation from time-series single-cell data."
-  authors: "<b>Sayali Anil Alatkar</b> & Daifeng Wang"
+  authors: "<b>Sayali Anil Alatkar</b> & Daifeng Wang,"
   doc-url:
   conf_name: "<i>Bioinformatics</i>, ECCB"
   conf_year: 2025
@@ -22,7 +22,7 @@
   year: 2025
   img: ibrainmap.png
   title: "Personalized Single-cell Transcriptomics Reveals Molecular Diversity in Alzheimer’s Disease."
-  authors: "Pramod Bharadwaj Chandrashekar*, <b>Sayali Anil Alatkar*</b>, Noah Cohen Kalafut*, Ting Jin*, Chirag Gupta, Ryan Burzak, Xiang Huang, Shuang Liu, Athan Z. Li, PsychAD Consortium, Kiran Girdhar, Georgios Voloudakis, Gabriel E. Hoffman, Jaroslav Bendl, John F. Fullard, Donghoon Lee, Panos Roussos#, Daifeng Wang#"
+  authors: "Pramod Bharadwaj Chandrashekar*, <b>Sayali Anil Alatkar*</b>, Noah Cohen Kalafut*, Ting Jin*, Chirag Gupta, Ryan Burzak, Xiang Huang, Shuang Liu, Athan Z. Li, PsychAD Consortium, Kiran Girdhar, Georgios Voloudakis, Gabriel E. Hoffman, Jaroslav Bendl, John F. Fullard, Donghoon Lee, Panos Roussos#, Daifeng Wang#,"
   doc-url:
   conf_name: "<i>in revision</i>,"
   conf_year: 2025
