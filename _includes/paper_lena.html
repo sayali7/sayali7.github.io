@@ -9,7 +9,7 @@
   <div class="media-body">
 
     {{ include.paper.title }} 
-    {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %} {% if include.paper.conf_name %}{{ include.paper.conf_name }} {{ include.paper.conf_year }}{% endif %}
+    {% if include.paper.authors %}{{ include.paper.authors }}{% endif %} {% if include.paper.conf_name %}{{ include.paper.conf_name }} {{ include.paper.conf_year }}{% endif %}
       <a href="{{ include.paper.url }}" target="_blank" class="links">link</a>
       {% if include.paper.code %}<a href="{{ include.paper.code }}" target="_blank" class="links">code</a>{% endif %}
 
