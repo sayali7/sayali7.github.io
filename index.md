@@ -34,15 +34,15 @@ while enjoying writing [blog posts](https://lena-voita.github.io/posts.html) and
 <!--<span style="color:red">__Blog-course:__</span>    NLP Course <span style="color:#92bf32">For You</span> - look [here](https://lena-voita.github.io/nlp_course.html).-->
 
 ## <span style="color:darkblue">News </span>
-- **[September 2025]** I will start my postdoc at Stanford at the Pritchard lab!
-- **[August 2025]** I defended my PhD dissertation!!
-- **[July 2025]** I presented ARTEMIS at the ISMB/ECCB 2025 in Liverpool, UK!
-- **[April 2025]** ARTEMIS, our paper to model time-series single-cell trajectories accepted at the Proceedings of ECCB 2025. [Press 1](https://www.cs.wisc.edu/2025/05/20/sayali-alatkar-and-daifeng-wang-ismb-eccb-2025/) [Press 2](https://www.waisman.wisc.edu/2025/07/29/meet-artemis-the-new-ai-helping-researchers-reconstruct-the-hidden-stories-of-cell-development/)
-- **[November 2023]** Gave a [recorded](https://www.youtube.com/watch?v=nDTm6LGhP6I) talk on CMOT at *RSGDREAM* 2023 at UCLA! 
-- **[October 2023]** Deepgami, our method for multi-modal integration using deep auxiliary learning was accepted in *Genome Medicine*. [Press](https://www.waisman.wisc.edu/2023/12/04/utilizing-ai-to-better-understand-the-genotype-phenotype-connection/)
-- **[July 2023]** CMOT, our method for cross-modality imputation using optimal transport, was accepted in *Genome Biology*.
-- **[May 2022]** Presented a poster on cross-modality imputation at RECOMB 2022 in San Diego!
-- **[May 2021]** Selected for Computer Science graduate summer scholarship.
+- **[September 2025]** Starting my postdoc at Stanford in the Pritchard Lab!
+- **[August 2025]** Successfully defended my PhD dissertation!
+- **[July 2025]** Presented *ARTEMIS* at ISMB/ECCB 2025 in Liverpool, UK.
+- **[April 2025]** *ARTEMIS*, our method for modeling time-series single-cell trajectories, was accepted at the Proceedings of ECCB 2025. [Press 1](https://www.cs.wisc.edu/2025/05/20/sayali-alatkar-and-daifeng-wang-ismb-eccb-2025/) | [Press 2](https://www.waisman.wisc.edu/2025/07/29/meet-artemis-the-new-ai-helping-researchers-reconstruct-the-hidden-stories-of-cell-development/)
+- **[November 2023]** Gave a [recorded](https://www.youtube.com/watch?v=nDTm6LGhP6I) talk on *CMOT* at *RSGDREAM 2023* (UCLA).
+- **[October 2023]** *DeepGAMI*, our method for multi-modal integration using deep auxiliary learning, was published in *Genome Medicine*. [Press](https://www.waisman.wisc.edu/2023/12/04/utilizing-ai-to-better-understand-the-genotype-phenotype-connection/)
+- **[July 2023]** *CMOT*, our method for cross-modality imputation using optimal transport, was published in *Genome Biology*.
+- **[May 2022]** Presented a poster on cross-modality imputation at RECOMB 2022 (San Diego).
+- **[May 2021]** Awarded the Computer Science Graduate Summer Scholarship.
 
 <!--
 __2023__
