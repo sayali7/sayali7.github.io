@@ -8,8 +8,11 @@
   </a>
   <div class="media-body">
 
-    <a href="{{include.paper.url}}">{{ include.paper.title }}</a> 
-    {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %} {% if include.paper.code %}<a href="{{ include.paper.code }}" target="_blank" class="links">code</a>
+    {{ include.paper.title }} 
+    {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %} 
+      {% if include.paper.conf_name %}<div class="conf_name">{{ include.paper.conf_name }} {{ include.paper.conf_year }}</div>{% endif %}
+      <a href="{{ include.paper.url }}" target="_blank" class="links">link</a>
+      {% if include.paper.code %}<a href="{{ include.paper.code }}" target="_blank" class="links">code</a>{% endif %}
 
     <br/>
 
