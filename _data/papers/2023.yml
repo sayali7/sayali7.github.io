@@ -5,7 +5,7 @@
   year: 2023
   img: cmot.png
   title: "CMOT: Cross-Modality Optimal Transport for multimodal inference."
-  authors: "<b>Sayali Anil Alatkar</b> & Daifeng Wang"
+  authors: "<b>Sayali Anil Alatkar</b> & Daifeng Wang,"
   doc-url:
   conf_name: "<i>Genome Biology</i>,"
   conf_year: 2023
@@ -21,7 +21,7 @@
   year: 2022
   img: deepgami.png
   title: "DeepGAMI: deep biologically guided auxiliary learning for multimodal integration and imputation to improve genotype–phenotype prediction"
-  authors: "Pramod Bharadwaj Chandrashekar, <b>Sayali Alatkar</b>, Jiebiao Wang, Gabriel E. Hoffman, Chenfeng He, Ting Jin, Saniya Khullar, Jaroslav Bendl, John F. Fullard, Panos Roussos & Daifeng Wang"
+  authors: "Pramod Bharadwaj Chandrashekar, <b>Sayali Alatkar</b>, Jiebiao Wang, Gabriel E. Hoffman, Chenfeng He, Ting Jin, Saniya Khullar, Jaroslav Bendl, John F. Fullard, Panos Roussos & Daifeng Wang,"
   doc-url:
   conf_name: "<i>Genome Medicine</i>,"
   conf_year: 2023
