@@ -8,7 +8,7 @@
   title: "Single-cell network biology characterizes cell type gene regulation for drug repurposing and phenotype prediction in Alzheimer’s disease"
   authors: "Chirag Gupta, Jielin Xu, Ting Jin, Saniya Khullar, Xiaoyu Liu, <b>Sayali Alatkar</b>, Feixiong Cheng, Daifeng Wang."
   doc-url:
-  conf_name: "<i>PLoS Computational Biology</i>"
+  conf_name: "PLoS Computational Biology"
   conf_year: 2022
   url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010287"
   code:
@@ -21,7 +21,7 @@
   selected: y
   year: 2022
   img: cmot_poster.png
-  title: "CMOT: Cross-Modality Optimal Transport for multi-modal inference (poster)"
+  title: "CMOT: Cross-Modality Optimal Transport for multi-modal inference [poster]"
   authors: "<b>Sayali Anil Alatkar</b> & Daifeng Wang"
   doc-url:
   conf_name: "RECOMB"
