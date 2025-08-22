@@ -6,4 +6,4 @@ menu: yes
 order: 2
 ---
 
-[Download my CV]({{ site.baseurl }}/resources/SayaliAA_CV.pdf)
+[Download my CV]({{ site.baseurl }}/resources/Alatkar, Sayali Anil - CV.pdf)
