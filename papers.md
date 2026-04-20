@@ -14,9 +14,11 @@ order: 1
 {% endcapture %}
 
 {% assign sortedyears = years | split:' ' | sort | reverse %}
+<ul>
 {% for year in sortedyears %}
 [comment]: <> (### {{ year }})
 {% for paper in hashes[year] %}
 {% include paper_lena.html paper=paper %}
 {% endfor %}
 {% endfor %}
+</ul>
