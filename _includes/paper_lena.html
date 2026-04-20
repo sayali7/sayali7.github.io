@@ -1,19 +1,7 @@
-<div class="media" style="width:100%; display:flex; align-items:center;">
-    <a class="pull-right" >
-    <img src="/img/paper/{{ include.paper.conf }}" alt="" style="max-width:50px; height:auto;"/>
-  </a>
-  <a class="pull-left" {% if include.paper.doc-url %} href="{{ include.paper.url }}" {% endif %}
-  {% if include.paper.abstract %} title="{{ include.paper.abstract }}"{% endif %}>
-    <img src="/img/paper/{{ include.paper.img }}" alt="" style="max-width:120px; height:auto;"/>
-  </a>
-  <div class="media-body">
-
-    {{ include.paper.title }} 
-    {% if include.paper.authors %}{{ include.paper.authors }}{% endif %} {% if include.paper.conf_name %}{{ include.paper.conf_name }} {{ include.paper.conf_year }}{% endif %}
-      <a href="{{ include.paper.url }}" target="_blank" class="links">link</a>
-      {% if include.paper.code %}<a href="{{ include.paper.code }}" target="_blank" class="links">code</a>{% endif %}
-
-    <br/>
-
-  </div>
+<div class="paper-entry" style="margin-bottom: 1em;">
+  {{ include.paper.title }}
+  {% if include.paper.authors %}{{ include.paper.authors }}{% endif %}
+  {% if include.paper.conf_name %}{{ include.paper.conf_name }} {{ include.paper.conf_year }}{% endif %}
+  {% if include.paper.url %}<a href="{{ include.paper.url }}" target="_blank" class="links">link</a>{% endif %}
+  {% if include.paper.code %}<a href="{{ include.paper.code }}" target="_blank" class="links">code</a>{% endif %}
 </div>
