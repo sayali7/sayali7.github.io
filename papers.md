@@ -15,10 +15,5 @@ order: 1
 
 {% assign sortedyears = years | split:' ' | sort | reverse %}
 <ul>
-{% for year in sortedyears %}
-[comment]: <> (### {{ year }})
-{% for paper in hashes[year] %}
-{% include paper_lena.html paper=paper %}
-{% endfor %}
-{% endfor %}
+{% for year in sortedyears %}{% for paper in hashes[year] %}{% include paper_lena.html paper=paper %}{% endfor %}{% endfor %}
 </ul>
