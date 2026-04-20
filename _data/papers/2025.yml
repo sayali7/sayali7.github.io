@@ -7,8 +7,8 @@
   title: "ARTEMIS integrates autoencoders and schrödinger bridges to predict continuous dynamics of gene expression, cell population and perturbation from time-series single-cell data."
   authors: "<b>Sayali Anil Alatkar</b> & Daifeng Wang,"
   doc-url:
-  conf_name: "<i>Bioinformatics</i>, ECCB"
-  conf_year: 2025
+  conf_name: "<i>Bioinformatics</i> (Proceedings of ISMB/ECCB 2025, acceptance rate 12%)"
+  conf_year:
   url: "https://www.biorxiv.org/content/10.1101/2025.01.23.634618v1"
   code: "https://github.com/daifengwanglab/ARTEMIS"
   blog:
