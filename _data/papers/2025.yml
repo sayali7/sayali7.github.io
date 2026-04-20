@@ -15,3 +15,36 @@
   abstract: " "
 
 
+-
+  layout: paper
+  paper-type: journal
+  selected: y
+  year: 2025
+  img:
+  title: "Population-scale cross-disorder atlas of the human prefrontal cortex at single-cell resolution."
+  authors: "John F. Fullard, Prashant Nm, Donghoon Lee, Deepika Mathur, Karen Therrien, Aram Hong, Clara Casey, Zhiping Shao, Marcela Alvia, Stathis Argyriou, Tereza Clarence, David Burstein, Sanan Venkatesh, Pavan K. Auluck, Lisa L. Barnes, David A. Bennett, Stefano Marenco, Kiran Girdhar, Vahram Haroutunian, Gabriel E. Hoffman, Georgios Voloudakis, Jaroslav Bendl, Panos Roussos, PsychAD Consortium,"
+  doc-url:
+  conf_name: "<i>Scientific Data</i>,"
+  conf_year: 2025
+  url: "https://www.nature.com/articles/s41597-025-04687-5"
+  code:
+  blog:
+  abstract: " "
+
+
+-
+  layout: paper
+  paper-type: journal
+  selected: y
+  year: 2025
+  img:
+  title: "Dynamic landscapes of gene regulatory networks in early mammalian neurogenesis: Insights into brain evolution and disorder risk."
+  authors: "Kalpana Hanthanan Arachchilage*, Ryan D. Risgaard*, Jie Sheng, Pubudu Kumarage, Jerome J. Choi, <b>Sayali Alatkar</b>, Chirag Gupta, Xinyu Zhao, Andre M. M. Sousa#, Daifeng Wang#,"
+  doc-url:
+  conf_name: "(under review),"
+  conf_year: 2025
+  url: "https://www.biorxiv.org/content/10.1101/2025.10.07.681016"
+  code:
+  blog:
+  abstract: " "
+
