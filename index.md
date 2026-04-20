@@ -36,7 +36,7 @@ while enjoying writing [blog posts](https://lena-voita.github.io/posts.html) and
 ## <span style="color:darkblue">News </span>
 - **[April 2026]** Started my postdoc at the [Arc Institute](https://arcinstitute.org/), co-advised by [Silvana Konermann](https://arcinstitute.org/labs/konermannlab) and [Hani Goodarzi](https://arcinstitute.org/labs/goodarzilab)!
 - **[March 2026]** *iBrainmap* was accepted to *Nature Communications*.
-- **[September 2025]** Started my postdoc at Stanford in the Pritchard Lab.
+- **[September 2025]** Started my postdoc at Stanford in the [Pritchard Lab](https://pritchardlab.stanford.edu/).
 - **[August 2025]** Successfully defended my PhD dissertation!
 - **[July 2025]** Presented *ARTEMIS* at ISMB/ECCB 2025 in Liverpool, UK.
 - **[April 2025]** *ARTEMIS*, our method for modeling time-series single-cell trajectories, was accepted at the ECCB 2025 proceedings. [Press 1](https://www.cs.wisc.edu/2025/05/20/sayali-alatkar-and-daifeng-wang-ismb-eccb-2025/) &#124; [Press 2](https://www.waisman.wisc.edu/2025/07/29/meet-artemis-the-new-ai-helping-researchers-reconstruct-the-hidden-stories-of-cell-development/)
